@@ -1,5 +1,5 @@
 # pinoc
-A GUI to for internationalised strings with React &amp; [fbt](https://facebookincubator.github.io/fbt). 
+A GUI for managing internationalised strings within your React app using &amp; [fbt](https://facebookincubator.github.io/fbt). 
 
 ## Installation
 
